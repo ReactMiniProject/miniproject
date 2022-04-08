@@ -19,8 +19,6 @@ const Header = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "Cute Font";
-  font-size: 40px;
 `;
 
 export default App;
